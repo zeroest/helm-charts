@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  zchart1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-18T16:49:23.042613696Z"
+    description: A Helm chart for Kubernetes
+    digest: 7c8a5fb387dee5f4872dfc096b00d169c5cd92016e257e921302135844f7fc85
+    name: zchart1
+    type: application
+    urls:
+    - zchart1-0.1.0.tgz
+    version: 0.1.0
+  zchart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-18T16:49:23.044024693Z"
+    description: A Helm chart for Kubernetes
+    digest: 9f2f7bcbfcdea8a401730f14f78eb4f9f32e72bf6caecbaf5a6fd98ab0243d1c
+    name: zchart2
+    type: application
+    urls:
+    - zchart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-18T16:49:23.041147688Z"
